@@ -16,3 +16,4 @@ def exactly_two_positives(a, b, c):
 
     # Return True if exactly two integers are positive, otherwise False
     return positive_count == 2
+print(exactly_two_positives(2, 4, -3))
